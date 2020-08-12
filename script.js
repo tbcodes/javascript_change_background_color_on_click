@@ -22,8 +22,6 @@
 //         let y = document.getElementById("btn-color").style.color = colors2[random2];
 //         let z = document.getElementById("container").style.background = colors2[random2];
     
-   
-
 // }
 
 // Method 3: Generating random colors
