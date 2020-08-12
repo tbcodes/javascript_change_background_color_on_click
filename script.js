@@ -1,4 +1,5 @@
 
+// Method 1: Basic Method
 
 // function btnChanger() {
 //     let bg = document.getElementById("container").style.background = "red";
@@ -6,6 +7,8 @@
 //     let y = document.getElementById("btn-color").style.color = "gold";
     
 // }
+
+// Method 2: Using colors defined in an Array
 
 // let colors = ["tomato", "grey", "red", "violet", "purple", "blue", "teal", "gold"];
 // let colors2 = ["white", "orange", "indigo", "pink", "lightcoral", "black", "cyan"];
@@ -22,6 +25,8 @@
    
 
 // }
+
+// Method 3: Generating random colors
 
 function btnChanger(){
     let x_bg = Math.floor(Math.random() * 256);
